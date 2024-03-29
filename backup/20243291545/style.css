@@ -33,14 +33,11 @@ color: lightgreen;
 font-size: 21px;
 color: lightgreen;
 }
-.page1 {
-font-size: 23px;
+.title {
+font-size: 12px;
+text-align: right;
+}
+.onetimetext1 {
+font-size: 20px;
 text-align: center;
-}
-.page1btn {
-text-decoration: none;
-color: black;
-}
-.page1btn:hover {
-color: red;
 }
