@@ -70,3 +70,10 @@ color: lightgreen;
 text-align: center;
 font-size: 15px;
 }
+img {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-moz-touch-callout: none;
+-moz-user-select:none;
+user-select:none;
+}
